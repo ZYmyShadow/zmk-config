@@ -1,0 +1,8 @@
+file_format: "1"
+id: holyiot_18010_nrf52840_83
+name: holyiot_18010_nrf52840_83
+type: shield
+url: https://github.com
+requires: [pro_micro]
+features:
+  - keys
