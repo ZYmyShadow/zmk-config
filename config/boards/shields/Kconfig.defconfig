@@ -1,7 +1,7 @@
 if SHIELD_HOLYIOT_18010_NRF52840_83
-
+# holyiot_18010_nrf52840_83
 config ZMK_KEYBOARD_NAME
-    default "holyiot_18010_nrf52840_83"
+    default "per83"
 
 endif
 

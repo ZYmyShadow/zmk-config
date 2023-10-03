@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: holyiot_18010_nrf52840_83
-    shield: holyiot_18010_nrf52840_83
+  - board: holyiot18010
+    shield: per83

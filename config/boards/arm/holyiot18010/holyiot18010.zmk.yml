@@ -1,0 +1,10 @@
+file_format: "1"
+id: holyiot18010
+name: holyiot18010
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+url: https://github.com

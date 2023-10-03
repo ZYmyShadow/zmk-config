@@ -1,0 +1,28 @@
+# Copyright (c) 2023 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_HOLYIOT18010
+
+config ZMK_KEYBOARD_NAME
+	default "holyiot18010"
+
+# if USB_DEVICE_STACK
+
+# config USB_NRFX
+#    default y
+
+# endif # USB_DEVICE_STACK
+
+config BT_CTLR
+   default BT
+
+# config ZMK_BLE
+#    default n
+
+config ZMK_USB
+   default y
+
+config ZMK_KSCAN_MATRIX_POLLING
+    default y
+
+endif
